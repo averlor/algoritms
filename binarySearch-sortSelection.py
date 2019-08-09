@@ -1,3 +1,5 @@
+import array
+
 def min_index(arr):
     smaller = arr[0]
     smaller_index = 0
